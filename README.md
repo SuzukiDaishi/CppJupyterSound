@@ -14,3 +14,10 @@ docker run --rm -p 8888:8888 -v $(pwd):/notebooks -w /notebooks -it cpprun  jupy
 ## 出力結果を見る
 
 [こちら](https://suzukidaishi.github.io/CppJupyterSound/)
+
+## メモ
+- PyScriptと併用すればmatplotlibの力も借りられそう
+
+## 参考文献
+- https://github.com/jupyter-xeus/xeus-cling
+- https://github.com/adamstark/AudioFile

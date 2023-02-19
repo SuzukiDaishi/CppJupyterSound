@@ -16,7 +16,7 @@ docker run --rm -p 8888:8888 -v $(pwd):/notebooks -w /notebooks -it cpprun  jupy
 [こちら](https://suzukidaishi.github.io/CppJupyterSound/)
 
 ## メモ
-- PyScriptと併用すればmatplotlibの力も借りられそう
+- [PyScript](https://pyscript.net/)と併用すればmatplotlibの力も借りられそう
 
 ## 参考文献
 - https://github.com/jupyter-xeus/xeus-cling
